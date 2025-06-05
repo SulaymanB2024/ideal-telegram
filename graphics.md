@@ -272,8 +272,4 @@ Convergence – Network path highlight converges on star project, signalling cli
 Disengage – Contact terminal dims background grid, isolating focus.
 
 
-Seal – Wax stamp spreads cyan ink, finalising narrative loop.
-
-
-
 Addendum v0.6.1 appended — hyper‑visual descriptors for colour taxonomy, textures, and story beats.
